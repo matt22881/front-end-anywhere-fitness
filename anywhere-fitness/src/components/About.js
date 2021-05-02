@@ -31,7 +31,7 @@ function About() {
       </p>
 
       <p>
-        <img src='https://www.heart.org/-/media/images/healthy-living/fitness/breakingdownbarriersfitness.jpg' alt='picture of weights and yoga mat' />
+        <img src='https://www.heart.org/-/media/images/healthy-living/fitness/breakingdownbarriersfitness.jpg' alt='weights and yoga mat'/>
       </p>
     </div>
   );

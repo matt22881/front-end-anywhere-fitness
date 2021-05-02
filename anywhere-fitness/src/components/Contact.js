@@ -11,7 +11,7 @@ export default function Contact() {
                 somethingaboutfitness@gmail.com
       </a>
             <p>
-                <img src="https://www.defined.com/wp-content/uploads/2021/02/Turf-Area-Maria-Phone-scaled.jpg " />
+                <img src="https://www.defined.com/wp-content/uploads/2021/02/Turf-Area-Maria-Phone-scaled.jpg " alt="" />
             </p>
         </div>
     );

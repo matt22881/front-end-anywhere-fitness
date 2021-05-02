@@ -28,7 +28,7 @@ export default function InstructorClassList() {
       });
   };
   useEffect(() => {
-    getClassList();
+    getClassList(); // eslint-disable-next-line
   }, []);
 
   return (
